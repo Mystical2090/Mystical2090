@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [discord](https://discord.com)
 
-- 🤝 I’m looking for help with [United Games](https://github.com/united-games)
+- 🤝 I’m looking for help with [United Games]()
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mystical2090](https://github.com/Mystical2090)
 
