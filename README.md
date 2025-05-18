@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mystical433</h1>
 <h3 align="center">A passionate developer, intrested in projects related to game modding!</h3>
 
-- 🔭 I’m currently working on [Polo](https://github.com/Gtxripmxt/not-a-mod-menu)
+- 🔭 I’m currently working on Polo (For now it's a private project)
 
 - 🌱 I’m currently learning **Python, C++**
 
