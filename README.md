@@ -10,6 +10,7 @@
 - 🤝 I’m looking for help with [United Games]()
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mystical2090](https://github.com/Mystical2090)
+(Most of my projects are private)
 
 - 📝 I regularly commit changes on [https://github.com/Gtxripmxt/not-a-mod-menu](https://github.com/Gtxripmxt/not-a-mod-menu)
 
