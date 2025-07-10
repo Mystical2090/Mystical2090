@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Polo (For now it's a private project)
 
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning **Python, C, C#++**
 
 - 👯 I’m looking to collaborate on [discord](https://discord.com)
 
@@ -12,9 +12,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mystical2090](https://github.com/Mystical2090)
 (Most of my projects are private)
 
-- 📝 I regularly commit changes on [https://github.com/Gtxripmxt/not-a-mod-menu](https://github.com/Gtxripmxt/not-a-mod-menu)
+- 📝 I regularly commit changes on [Polo](https://github.com/Gtxripmxt/not-a-mod-menu)
 
-- 💬 Ask me about **anything related to game modding, C++ or Python**
+- 💬 Ask me about **anything related to game modding, C++, Python, C#**
 
 - 📫 How to reach me **mystical4339@gmail.com**
 
