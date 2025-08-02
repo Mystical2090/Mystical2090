@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mystical2090](https://github.com/Mystical2090)
 (Most of my projects are private)
 
-- 📝 I regularly commit changes on [Polo](https://github.com/Gtxripmxt/not-a-mod-menu)
+- 📝 I regularly commit changes on [Polo](https://github.com/Mystical2090/polo)
 
 - 💬 Ask me about **anything related to game modding, C++, Python, C#**
 
