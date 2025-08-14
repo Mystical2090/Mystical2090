@@ -1,6 +1,6 @@
 ### My Status:
 
-I'm currently going through a rough patch (possibly dealing with depression) and need to take a break from activities on GitHub (and even from being online on Discord for a while). Hopefully, by June, once I've managed to improve my mood, I'll be able to return to my main projects on GitHub. Until then, I won't be very active on GitHub (and likely on Discord as well).
+I'm currently going through a rough patch (possibly dealing with depression) and need to take a break from activities on GitHub (and even from being online on Discord for a while). Hopefully, by September, once I've managed to improve my mood, I'll be able to return to my main projects on GitHub. Until then, I won't be very active on GitHub (and likely on Discord as well).
 I sincerely apologize to everyone waiting for updates on my projects.
 I love you all.
 
@@ -12,7 +12,7 @@ I love you all.
 
 * **Age:** 19
 
-* **Sexuality:** Gay🏳️‍🌈, Male
+* **Sexuality:** Gay 🏳️‍🌈, Male
 * **Hobbies:** Making Geode SDK Mods, Making some projects in Python!
   ↳ **Some of my favorite games:** Geometry Dash, Osu!, etc...
 
@@ -37,8 +37,10 @@ I love you all.
 
 [Polo](https://github.com/mystical2090/polo)
 A geometry dash mod menu.
+
 [Emerald433](https://github.com/mystical2090/emerald)
 A Discord moderation bot.
+
 [Gadolin](https://github.com/Mystical2090/Gadolin-)
 Another geometry dash mod menu.
 ---
