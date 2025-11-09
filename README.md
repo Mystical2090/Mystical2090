@@ -36,20 +36,24 @@ I love you all.
 
 ## Notable Repositories
 
+[Pixel Art Drawer](https://pixelartdrawer.pages.dev/)
+
 [Polo](https://github.com/mystical2090/polo)
-A geometry dash mod menu.
+[Site] (https://polo-dev.pages.dev)
+A geometry dash mod menu. (Deleted due to issues)
 
 [Emerald433](https://github.com/mystical2090/emerald)
-A Discord moderation bot.
+[Site] (https://emerald433.pages.dev/)
+A Discord moderation bot. (Private repo)
 
 [Gadolin](https://github.com/Mystical2090/Gadolin-)
-Another geometry dash mod menu.
+Another geometry dash mod menu. (More issues)
 
 ---
 
 ## Discord
 
-You can find me at: **`@mystical433`**
+You can find me at: **`@realmystic433`**
 (User ID: `1096764440243867761`)
 (Currently inactive)
 
