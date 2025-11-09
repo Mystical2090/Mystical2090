@@ -1,6 +1,6 @@
 ### My Status:
 
-I'm currently going through a rough patch (possibly dealing with depression) and need to take a break from activities on GitHub (and even from being online on Discord for a while). Hopefully, by October
+I'm currently going through a rough patch (possibly dealing with depression) and need to take a break from activities on GitHub (and even from being online on Discord for a while). Hopefully, by January
 , once I've managed to improve my mood, I'll be able to return to my main projects on GitHub. Until then, I won't be very active on GitHub (and likely on Discord as well).
 I sincerely apologize to everyone waiting for updates on my projects.
 I love you all.
