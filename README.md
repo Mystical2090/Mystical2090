@@ -13,7 +13,7 @@ I love you all.
 
 * **Age:** 19
 
-* **Sexuality:** Gay 🏳️‍🌈, Male
+* **Sexuality:**  Male
 * **Hobbies:** Making Geode SDK Mods, Making some projects in Python!
   ↳ **Some of my favorite games:** Geometry Dash, Osu!, etc...
 
