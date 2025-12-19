@@ -1,5 +1,7 @@
 ## About Me
 
+* **Name:** Gyumin Lee
+
 * **Country:** South Korea 🇰🇷
 
 * **Age:** 19
