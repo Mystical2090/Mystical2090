@@ -1,12 +1,3 @@
-### My Status:
-
-I'm currently going through a rough patch (possibly dealing with depression) and need to take a break from activities on GitHub (and even from being online on Discord for a while). Hopefully, by January
-, once I've managed to improve my mood, I'll be able to return to my main projects on GitHub. Until then, I won't be very active on GitHub (and likely on Discord as well).
-I sincerely apologize to everyone waiting for updates on my projects.
-I love you all.
-
----
-
 ## About Me
 
 * **Country:** South Korea 🇰🇷
@@ -40,22 +31,22 @@ I love you all.
 
 [Polo](https://github.com/mystical2090/polo)
 [Site] (https://polo-dev.pages.dev)
-A geometry dash mod menu. (Deleted due to issues)
+A geometry dash mod menu. (Archived due to issues)
 
 [Emerald433](https://github.com/mystical2090/emerald)
 [Site] (https://emerald433.pages.dev/)
 A Discord moderation bot. (Private repo)
 
-[Gadolin](https://github.com/Mystical2090/Gadolin-)
-Another geometry dash mod menu. (More issues)
+[Lunar](https://github.com/Mystical2090/lunar)
+Another geometry dash mod menu. (Private Repo)
 
 ---
 
 ## Discord
 
-You can find me at: **`@realmystic433`**
+You can find me at: **`@realmystical433`**
 (User ID: `1096764440243867761`)
-(Currently inactive)
+(Currently active!)
 
 ---
 
@@ -66,3 +57,5 @@ You can find me at: **`@realmystic433`**
 ---
 
 ### Thank you for reading💜
+ Love you!
+ 
